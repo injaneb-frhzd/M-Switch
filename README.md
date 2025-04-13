@@ -7,4 +7,4 @@ M-Switch is a mirror switch tool. You can use this script to update your sources
 # Run
 sudo bash m-switch.sh
 
-# https://github.com/injanebv/M-Swich
+# https://github.com/injanebv/M-Switch
