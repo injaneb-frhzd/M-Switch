@@ -8,3 +8,4 @@ M-Switch is a mirror switch tool. You can use this script to update your sources
 sudo bash m-switch.sh
 
 # https://github.com/injanebv/M-Switch
+# Written by Arman
