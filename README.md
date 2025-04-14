@@ -9,9 +9,9 @@ sudo bash m-switch.sh
 
 # Screenshots
 Menu:
-![alt text](https://github.com/injanebv/M-Switch/blob/main/menu.png)
+![plot](https://github.com/injanebv/M-Switch/blob/main/menu.png)
 Test Mirrors:
-![alt text](https://github.com/injanebv/M-Switch/blob/main/test-mirrors.png)
+![plot](https://github.com/injanebv/M-Switch/blob/main/test-mirrors.png)
 
 # https://github.com/injanebv/M-Switch
 # Written by Arman
