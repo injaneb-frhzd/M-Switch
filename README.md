@@ -17,5 +17,5 @@ Test Mirrors:
 
 ![test-mirrors](https://github.com/user-attachments/assets/7358a9f4-aea1-46f1-8b1e-0a55284a7b8f)
 
-# https://github.com/injanebv/M-Switch
+# https://github.com/injaneb-frhzd/M-Switch
 # Written by Arman
